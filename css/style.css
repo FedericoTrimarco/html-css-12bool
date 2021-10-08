@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+}
+
+h1, h2{
+    font-weight: 400px;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.box{
+    padding: 10px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.box-green{
+    padding: 10px;
+    text-align: center;
+    background-color: lightgreen;
+}
