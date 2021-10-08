@@ -5,25 +5,34 @@ h1, h2{
     margin: 2rem 0;
 }
 
-.box-black{
-    padding: 27px;
+.mini-box-black{
+    /* padding: 20px; */
+    height: 40px;
     background-color: black;
 }
 
-.box-white{
-    padding: 27px;
+.mini-box-white{
+    /* padding: 20px; */
+    height: 40px;
     background-color: white;
 }
-.box-purple{
-    padding: 27px;
+.mini-box-purple{
+    /* padding: 20px; */
+    height: 40px;
     background-color: #a249a4;
 }
-.box-red{
-    padding: 27px;
+.mini-box-red{
+    /* padding: 20px; */
+    height: 40px;
     background-color: #ed1c23;
 }
 .box{
-    padding: 27px;
-    background-color: white;
-    border: 1px solid black;
+    height: 80px;
+    background-color: transparent;
+    border: 1px solid green;
+}
+.mini-box{
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid green;
 }
