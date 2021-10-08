@@ -1,0 +1,29 @@
+
+h1, h2{
+    font-weight: 400px;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.box-black{
+    padding: 27px;
+    background-color: black;
+}
+
+.box-white{
+    padding: 27px;
+    background-color: white;
+}
+.box-purple{
+    padding: 27px;
+    background-color: #a249a4;
+}
+.box-red{
+    padding: 27px;
+    background-color: #ed1c23;
+}
+.box{
+    padding: 27px;
+    background-color: white;
+    border: 1px solid black;
+}
