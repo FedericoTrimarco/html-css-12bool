@@ -3,36 +3,29 @@ h1, h2{
     font-weight: 400px;
     text-align: center;
     margin: 2rem 0;
+    font-size: 50px;
+    color: #56529a;
 }
 
 .mini-box-black{
-    /* padding: 20px; */
     height: 40px;
     background-color: black;
 }
 
 .mini-box-white{
-    /* padding: 20px; */
     height: 40px;
     background-color: white;
 }
-.mini-box-purple{
-    /* padding: 20px; */
-    height: 40px;
-    background-color: #a249a4;
-}
 .mini-box-red{
-    /* padding: 20px; */
     height: 40px;
     background-color: #ed1c23;
 }
 .box{
     height: 80px;
     background-color: transparent;
-    border: 1px solid green;
 }
 .mini-box{
     height: 40px;
-    background-color: transparent;
-    border: 1px solid green;
+    background-color: #a249a4;
+    border: 1px solid green
 }
