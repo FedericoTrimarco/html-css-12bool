@@ -13,8 +13,7 @@
     max-width: 1100px;
     margin: 0 auto;
 }
-.grid{
-    border: 1px solid black;
+/* .grid{
     position: relative;
     top: 0;
     animation: float 1.3s linear infinite;
@@ -29,7 +28,7 @@
     100%{
         top: 0;
     }
-}
+} */
 /* ROW */
 .row{
     display: flex;
